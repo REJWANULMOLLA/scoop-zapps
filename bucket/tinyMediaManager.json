@@ -1,5 +1,5 @@
 {
-    "version": "5.3.0",
+    "version": "5.3.1",
     "description": "tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center (formerly known as XBMC), MediaPortal and Plex media server",
     "homepage": "https://www.tinymediamanager.org/",
     "license": {
@@ -20,8 +20,8 @@
             "regex": "$sha256"
         }
     },
-    "url": "https://release.tinymediamanager.org/v4/dist/tmm_5.3.0_windows-amd64.zip",
-    "hash": "0581e7b9c1b9bfdff665b041ce0605eccfc80ee082e5c0b3c023dce258b3ada1",
+    "url": "https://release.tinymediamanager.org/v4/dist/tmm_5.3.1_windows-amd64.zip",
+    "hash": "a2a52754accf2c8b260461fd2e73841a7f43f79d80c4a993061e073f89ca3090",
     "bin": "tinyMediaManagerCMD.exe",
     "shortcuts": [
         [
